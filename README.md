@@ -32,7 +32,7 @@ A small two-page weather app: a welcome screen leads into a city search page tha
 ## Running Locally
 
 ```bash
-git clone https://github.com/bianca574/weather-search-app
+git clone https://github.com/bianca574/weather-dashboard
 cd weather-dashboard
 npm install
 npm run dev
