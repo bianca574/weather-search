@@ -4,7 +4,7 @@ A small two-page weather app: a welcome screen leads into a city search page tha
 
 ## Live Demo
 
-[Live Demo](https://weather-search-app-beta.vercel.app/)
+[Link](https://weather-search-app-beta.vercel.app/)
 
 ## Screenshots
 
