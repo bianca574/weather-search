@@ -1,4 +1,4 @@
-# Weather Search
+# Weather Search (July 2026)
 
 A small two-page weather app: a welcome screen leads into a city search page that shows live current-weather data — with a twist, the page's color theme automatically switches between a light and a dark mode depending on whether it's actually daytime or nighttime in the city you searched.
 
